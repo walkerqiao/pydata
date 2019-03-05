@@ -59,6 +59,19 @@ for col in df.columns:
 ### 数据可变性和复制
 所有的pandas数据接哦股都是值可变的(它们包含的值是可以更改的)，但是大小不一定是可以改变的。不能更改Series的长度，但例如，可以将列插入到DataFrame中。但是，绝大多数方法都会生成新的对象，并且不会影响输入数据。一般来说，我们喜欢在合理的情况下保持不变。
 
+
+## pandas.DataFrame
+
+### 方法介绍
+
+#### 1. DataFrame.abs()
+该方法返回Series/DataFrame每个元素的绝对值。
+> 注意: 对于复数输入，1.2 + 1j, 绝对值是√a2+b2。
+
+
+
+#### 2. DataFrame.
+
 ## 术语
 - 移动窗口统计: moving window statistics
 - 移动窗口线性回归: moving window linear regressions
