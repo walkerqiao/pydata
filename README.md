@@ -1,7 +1,6 @@
 Python数据分析学习整理
 ---------
 
-
 ## pandas
 [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/overview.html)是一个Python包，提供快速、灵活和丰富的数据结构, 旨在轻松直观的处理关系型(relational)数据或标记型(labeled)数据。它的目标是成为在Python中进行实际的、真实的数据分析的基本高层构建块。此外，它还有更广泛的目标，即成为任何语言中最强大和最灵活的开源数据分析/操作工具。它已经很好的朝这个目标前进了。
 
